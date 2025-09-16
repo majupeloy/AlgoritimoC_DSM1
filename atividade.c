@@ -5,7 +5,7 @@ int main(){
     int cont = 0;
 
     printf("Digite um texto: ");
-    scanf("%50[^\n]", texto)
+    scanf("%50[^\n]", texto);
 
     printf("Texto digitado: %s\n", texto);
 
